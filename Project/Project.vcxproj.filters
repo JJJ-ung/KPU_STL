@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Save">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{bd605f2a-2d82-4093-9d18-e5eea92f5f25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210426 월요일">
+      <UniqueIdentifier>{bbe0e9b9-2def-4db4-b6fd-79b486b2aacf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전">
+      <UniqueIdentifier>{5e6e4043-b144-48e8-b843-7e4019795866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210422 목요일">
+      <UniqueIdentifier>{b0a29ab0-7bf3-479d-850d-558595e794af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210308 월요일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="00중간고사전\20210311 목요일">
+      <UniqueIdentifier>{0f85764b-7bfb-4df7-b789-37ce471eb1be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210315 월요일">
+      <UniqueIdentifier>{fd7f56b6-8124-40cc-b033-c7345c8e340e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210322 월요일">
+      <UniqueIdentifier>{993ad194-4566-4133-91a3-aefe07bb1c36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210329 월요일">
+      <UniqueIdentifier>{35304eea-78c4-4ebc-82b4-ae31c220382b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210405 월요일">
+      <UniqueIdentifier>{ea53411f-ac39-469d-ada5-83196ea1f485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210412 월요일">
+      <UniqueIdentifier>{b13430c5-dc65-44ee-9e7c-baad83f40a22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210415 목요일">
+      <UniqueIdentifier>{c26a9784-5771-4bf3-82fd-b2edb4634a99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210419 월요일">
+      <UniqueIdentifier>{b89ebeec-409d-4720-a455-41f9876a934e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210503 월요일">
+      <UniqueIdentifier>{ab02cb75-e2ab-4aab-84c2-47b6060216d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210318 목요일">
+      <UniqueIdentifier>{0f5d34ee-e17d-4a97-b2bb-8016d64c6b39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210325 목요일">
+      <UniqueIdentifier>{8c27cba1-d9c2-451d-93bb-6bc9eee8b204}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00중간고사전\20210408 목요일">
+      <UniqueIdentifier>{38ec4b3d-bdfc-4e26-b7da-a2240f92da5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210429 목요일">
+      <UniqueIdentifier>{263d1db3-4fcc-4129-8e4e-00b9c5be2462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제">
+      <UniqueIdentifier>{a28673ad-78d2-4646-8670-fb462ed91266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210506 목요일">
+      <UniqueIdentifier>{04b519a6-7002-47cf-be33-b77f96fba2a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210510 월요일">
+      <UniqueIdentifier>{dc62dcc3-db93-4100-88a2-b444737548c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210513 목요일">
+      <UniqueIdentifier>{7cb2b730-d6ad-4363-9511-ebe8dbef9bb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210517 월요일">
+      <UniqueIdentifier>{673cea00-0daf-4970-8da1-ccfe5852c904}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\20210308\ConsoleApplication1\20210308_2.cpp">
+      <Filter>00중간고사전\20210308 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\20210308\ConsoleApplication1\20210308_1.cpp">
+      <Filter>00중간고사전\20210308 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\20210308\ConsoleApplication1\save.cpp">
+      <Filter>Save</Filter>
+    </ClCompile>
+    <ClCompile Include="20210311_1.cpp">
+      <Filter>00중간고사전\20210311 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="Project.cpp" />
+    <ClCompile Include="20210311_2.cpp">
+      <Filter>00중간고사전\20210311 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210315_0.cpp">
+      <Filter>00중간고사전\20210315 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210315_1.cpp">
+      <Filter>00중간고사전\20210315 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210322_0.cpp">
+      <Filter>00중간고사전\20210322 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210322_1.cpp">
+      <Filter>00중간고사전\20210322 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210322_2.cpp">
+      <Filter>00중간고사전\20210322 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210329_0.cpp">
+      <Filter>00중간고사전\20210329 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210329_1.cpp">
+      <Filter>00중간고사전\20210329 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210329_2.cpp">
+      <Filter>00중간고사전\20210329 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210412_0.cpp">
+      <Filter>00중간고사전\20210412 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_0.cpp">
+      <Filter>00중간고사전\20210405 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_1.cpp">
+      <Filter>00중간고사전\20210405 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_2.cpp">
+      <Filter>00중간고사전\20210405 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_3.cpp">
+      <Filter>00중간고사전\20210405 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_4.cpp">
+      <Filter>00중간고사전\20210405 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210412_1.cpp">
+      <Filter>00중간고사전\20210412 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210415_0.cpp">
+      <Filter>00중간고사전\20210415 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210415_1.cpp">
+      <Filter>00중간고사전\20210415 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210415_2.cpp">
+      <Filter>00중간고사전\20210415 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210415_3.cpp">
+      <Filter>00중간고사전\20210415 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_0.cpp">
+      <Filter>00중간고사전\20210419 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_1.cpp">
+      <Filter>00중간고사전\20210419 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_2.cpp">
+      <Filter>00중간고사전\20210419 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_3.cpp">
+      <Filter>00중간고사전\20210419 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="MidTerm.cpp">
+      <Filter>00중간고사전\20210422 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210426_0.cpp">
+      <Filter>20210426 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210503_0.cpp">
+      <Filter>20210503 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210315_3.cpp">
+      <Filter>00중간고사전\20210318 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210315_2.cpp">
+      <Filter>00중간고사전\20210318 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_7.cpp">
+      <Filter>00중간고사전\20210408 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_5.cpp">
+      <Filter>00중간고사전\20210408 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210405_6.cpp">
+      <Filter>00중간고사전\20210408 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_6.cpp">
+      <Filter>20210429 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210419_5.cpp">
+      <Filter>20210429 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\01 Study\00 School\2021_1\STL\2017184034 최정윤\MainApp.cpp">
+      <Filter>과제</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\01 Study\00 School\2021_1\STL\2017184034 최정윤\Player.cpp">
+      <Filter>과제</Filter>
+    </ClCompile>
+    <ClCompile Include="20210506_0.cpp">
+      <Filter>20210506 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210506_1.cpp">
+      <Filter>20210506 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210506_2.cpp">
+      <Filter>20210506 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210506_3.cpp">
+      <Filter>20210506 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210506_4.cpp">
+      <Filter>20210506 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210510_0.cpp">
+      <Filter>20210510 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210510_1.cpp">
+      <Filter>20210510 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210510_2.cpp">
+      <Filter>20210510 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210510_3.cpp">
+      <Filter>20210510 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210510_4.cpp">
+      <Filter>20210510 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_0.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_1.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_2.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_3.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_4.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_5.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210513_6.cpp">
+      <Filter>20210513 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210517_0.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210517_1.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210517_2.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\20210308\ConsoleApplication1\save.h">
+      <Filter>Save</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers.h" />
+    <ClInclude Include="20210419_4.cpp">
+      <Filter>00중간고사전\20210419 월요일</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\01 Study\00 School\2021_1\STL\2017184034 최정윤\Player.h">
+      <Filter>과제</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\01 Study\00 School\2021_1\STL\2017184034 최정윤\Headers.h">
+      <Filter>과제</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="20210311_0.txt">
+      <Filter>00중간고사전\20210311 목요일</Filter>
+    </Text>
+    <Text Include="int 10개.txt">
+      <Filter>00중간고사전\20210311 목요일</Filter>
+    </Text>
+    <Text Include="int 100개.txt">
+      <Filter>00중간고사전\20210315 월요일</Filter>
+    </Text>
+    <Text Include="int 천개.txt">
+      <Filter>00중간고사전\20210315 월요일</Filter>
+    </Text>
+    <Text Include="int 10000개.txt">
+      <Filter>00중간고사전\20210315 월요일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
