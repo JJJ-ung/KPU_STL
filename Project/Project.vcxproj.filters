@@ -259,6 +259,15 @@
     <ClCompile Include="20210517_2.cpp">
       <Filter>20210517 월요일</Filter>
     </ClCompile>
+    <ClCompile Include="20210517_3.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210517_4.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210517_5.cpp">
+      <Filter>20210517 월요일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\20210308\ConsoleApplication1\save.h">
