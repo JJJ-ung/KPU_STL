@@ -213,17 +213,6 @@ public:
         return *this;
     }
 
-    bool operator==(const String& rhs) const
-    {
-        if (num != rhs.num)
-            return false;
-        for (int i = 0; i < num; ++i)
-            if (p[i] != rhs.p[i])
-                return false;
-
-        return true;
-    }
-
     size_t size() const {
         return num;
     }
@@ -263,6 +252,20 @@ public:
     {
         return num < rhs.num;
     }
+
+    // 2021.05.20
+    // find()는 operator == 으로 원소를 찾는다
+	bool operator==(const String& rhs) const
+	{
+		if (num != rhs.num)
+			return false;
+		for (int i = 0; i < num; ++i)
+			if (p[i] != rhs.p[i])
+				return false;
+
+		return true;
+	}
+
 
 private:
     size_t num;                         // 확보한 자원의 수

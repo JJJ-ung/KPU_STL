@@ -75,6 +75,12 @@
     <Filter Include="20210517 월요일">
       <UniqueIdentifier>{673cea00-0daf-4970-8da1-ccfe5852c904}</UniqueIdentifier>
     </Filter>
+    <Filter Include="20210520 목요일">
+      <UniqueIdentifier>{8786ce02-891e-4876-8a1f-a06851ee979c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210524 월요일">
+      <UniqueIdentifier>{d3d224f4-2514-4e79-b529-bd4375a7dc93}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\20210308\ConsoleApplication1\20210308_2.cpp">
@@ -267,6 +273,18 @@
     </ClCompile>
     <ClCompile Include="20210517_5.cpp">
       <Filter>20210517 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210520_0.cpp">
+      <Filter>20210520 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210520_1.cpp">
+      <Filter>20210520 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210520_2.cpp">
+      <Filter>20210520 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210524_0.cpp">
+      <Filter>20210524 월요일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
