@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Homework">
+      <UniqueIdentifier>{9d57ed41-4020-4840-a783-a2397318ff11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Homework\Player">
+      <UniqueIdentifier>{06361a5b-8b3f-4a69-8741-1ef96510426b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>Homework\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="MainApp.cpp">
+      <Filter>Homework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Homework\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers.h">
+      <Filter>Homework</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

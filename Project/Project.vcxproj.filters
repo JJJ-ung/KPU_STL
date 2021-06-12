@@ -87,6 +87,12 @@
     <Filter Include="20210603 목요일">
       <UniqueIdentifier>{6fab6d80-8d02-465b-a93a-8c61e69512ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="20210607 월요일">
+      <UniqueIdentifier>{bde4e554-ecbc-43db-b6de-d6a38dbd2e70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="20210610 기말고사">
+      <UniqueIdentifier>{913710d5-2385-4cd2-881e-497f051febef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\20210308\ConsoleApplication1\20210308_2.cpp">
@@ -321,6 +327,21 @@
     </ClCompile>
     <ClCompile Include="20210603_3.cpp">
       <Filter>20210603 목요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210607_0.cpp">
+      <Filter>20210607 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210607_1.cpp">
+      <Filter>20210607 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210607_2.cpp">
+      <Filter>20210607 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="20210607_3.cpp">
+      <Filter>20210607 월요일</Filter>
+    </ClCompile>
+    <ClCompile Include="Final.cpp">
+      <Filter>20210610 기말고사</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

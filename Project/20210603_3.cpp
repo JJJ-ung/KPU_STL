@@ -2,11 +2,10 @@
 
 struct PS : public pair<string, string>
 {
-	PS(string str)
+	PS(const string& str)
+		: pair<string, string>(str, str)
 	{
-		this->second = str;
-		sort(str.begin(), str.end());
-		this->first = str;
+		sort(first.begin(), first.end());
 	}
 };
 
